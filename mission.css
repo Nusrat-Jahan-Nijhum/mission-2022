@@ -1,0 +1,149 @@
+/*   FIRST SECTION */
+.first-sec
+{
+    margin-top: 100px;
+    display: flex;
+    margin-left: 90px;
+}
+
+.half-width
+{   
+    padding-left: 10%;
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+}
+.caption-alignment{
+    display: flex;
+}
+.line{
+    width: 4px;
+    height: 240px;
+    left: 156px;
+    top: 200px;
+    margin-right: 20px;
+    background: #FF5959;
+    border-radius: 5px;
+}
+.mission-2022
+{
+    color: rgb(216, 63, 94);
+}
+.caption-1
+{
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+}
+.intro-1
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.button{
+    background-color: #FF5959;
+    text-decoration: none;
+    padding: 10px 40px;
+    color:aliceblue;
+    border-radius: 5px;
+
+    
+}
+
+.second-sec{
+    margin-top: 100px;
+    text-align: center;
+}
+.MissionVissonGoal p{
+    text-align: left;
+    padding-left: 5%;
+
+}
+.MissionVissonGoal h2{
+    text-align: left;
+    padding-left: 5%;
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+.myMission{
+    font-size: 60px;
+    font-family: 'Poppins';
+    }
+.year{  
+    color: #FFAD5A;
+}
+.MissionVissonGoal{
+    display:flex;
+    margin-left: 13%;
+}
+
+.image-1{
+    width: 141px;
+    height: 141px;
+}
+.image-2{
+    width: 141px;
+    height: 141px;
+}
+.image-3{
+    width: 141px;
+    height: 141px;
+}
+.Mission{
+    width: 360px;
+    height: 376px;
+    left: 156px;
+    top: 723px;
+    margin: 10px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+    margin-right: 3%;
+}
+.Vission{
+    width: 360px;
+    height: 376px;
+    left: 156px;
+    top: 723px;
+    margin: 10px;
+    background: rgba(233, 167, 167, 0.932);
+    border-radius: 26px;
+    margin-right: 3%;
+}
+
+.Goal{
+    width: 360px;
+    height: 376px;
+    left: 156px;
+    top: 723px;
+    margin: 10px;
+    border-radius: 26px;
+    background: #FFF4D6;
+    margin-right: 3%;
+}
+
+
+.third-sec
+{
+    margin-top: 200px;
+    display: flex;
+    
+}
+.picture-1
+{   
+    padding-left: 9%;
+    width: 400px;
+    height: 400px;
+    margin: 0;
+    left: 158px;
+    top: 1185px;
+}
+.third-caption{
+margin-left: 100px;
+   
+}
+
+.third-sec h2{
+    font-size: 50px;
+    font-family: 'Poppins';
+
+}
