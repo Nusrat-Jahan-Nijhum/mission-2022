@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+}
+
+
 /*   FIRST SECTION */
 .first-sec
 {
@@ -186,9 +191,9 @@ footer
     justify-content: center;
     align-items: center;
 }
-
 .footerTilte{
  color:white;
+ text-align: center;
  width: 196px;
  height: 44px;
  font-size: 36px;
@@ -198,6 +203,25 @@ footer
 .footerLine{
     font-family: 'Manrope', sans-serif;
     color: #D9DBE1;
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+
+.fifth-sec{
+   display: flex; 
+   margin-top: 200px;
+   align-items: center;
+}
+
+.skillImage{
+    margin-left: 140px;
+    padding-right: 100px;
+}
+
+.fifth-sec p{
+    font-family: 'Manrope', sans-serif;
+    color: #66676b;
     margin: 0;
     margin-bottom: 40px;
 }
